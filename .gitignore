@@ -1,0 +1,19 @@
+.DS_Store
+.ide
+#配置文件
+public/application/config/production/*
+public/application/config/development/*
+public/application/config/config.php
+public/application/config/database.php
+
+public/application/cache/*
+public/application/logs/*
+
+public/application/sdk/*
+public/application/logs/*
+public/uploads/*
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
